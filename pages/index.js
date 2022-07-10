@@ -12,7 +12,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My name is <b>Gabriel Braga Zamproni Lima</b>, I'm Computer Science graduating and IT Technician at Banco do Brasil.
+        <p>My name is <b>Gabriel Braga Lima</b>, I'm Computer Science graduating and IT Technician at Banco do Brasil.
           I'm trying to learn how to build responsive, fast and pretty webpages using
           React's framework Next.js.
         </p>
